@@ -4,4 +4,15 @@ h1{
 #mainHeader{
     font-weight: bold;
     font-size: xx-large;
+    margin-bottom: 10px;
+}
+#bio{
+    font-size: large;
+    font-weight: bold;
+}
+#bioInfo{
+    font-size: medium;
+    font-weight: lighter;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
